@@ -23,6 +23,7 @@ def evaluate_report_safety(report):
          return 0
 
 def evaluate_report_safety_with_dampener(report):
+    # Add The problem Dampener by iteratively removing 1 level from a false report to see if there is a case where removing one level make the report safe
     if evaluate_report_safety(report):
           return 1
     else:
