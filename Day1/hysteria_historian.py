@@ -40,6 +40,6 @@ def similarity_list(list1, list2):
 left_list, right_list = decipher_file("Day1/input.txt")
 distance = distance_list(list1=left_list, list2=right_list)
 similarity = similarity_list(list1=left_list, list2=right_list)
-print(distance)
-print(similarity)
+print("Distance between the two lists:", distance)
+print("Similarity between the two lists:", similarity)
 

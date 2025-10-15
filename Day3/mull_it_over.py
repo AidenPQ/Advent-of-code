@@ -60,6 +60,8 @@ def sum_of_multiplications_with_conditions(corrupt_mem):
 
 
 corrupted_memmory = extract_corrupted_memory("Day3/input.txt")
-sum_of_mul_memory = sum_of_multiplications_with_conditions(corrupted_memmory)
-print(sum_of_mul_memory)
+sum_of_mul_with_conditions = sum_of_multiplications_with_conditions(corrupted_memmory)
+sum_of_mul = sum_of_multiplications(corrupted_memmory)
+print("Sum of multiplications operations:", sum_of_mul)
+print("Sum of multipication operations with conditions:", sum_of_mul_with_conditions)
     
