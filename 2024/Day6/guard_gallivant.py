@@ -231,6 +231,5 @@ print("Number of explored positions by the guard:", number_of_explored_positions
 number_of_potential_loop, new_obstacle_pos = create_loop_in_map('Day6/input.txt')
 print("Number of possible positions for obstruction:", number_of_potential_loop)
 
-print(new_obstacle_pos)
 
 

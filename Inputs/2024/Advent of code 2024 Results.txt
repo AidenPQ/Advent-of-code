@@ -1,0 +1,29 @@
+Advent of code 2024 Results:
+
+Day 1:
+Distance between the two lists: 1320851
+Similarity between the two lists: 26859182
+
+Day 2:
+Number of safe reports: 359
+Number of safe reports with dampener: 418
+
+Day 3:
+Sum of multiplications operations: 173529487
+Sum of multipications operations with conditions: 99532691
+
+Day 4:
+Number of XMAS occurences: 2603
+Number of X-MAS occurences: 1965
+
+Day 5:
+Sum of middle pags number for valid updates: 5129
+Sum of middle pages number for corrected updates: 4077
+
+Day 6:
+Number of explored positions by the guard: 4776
+Number of possible positions for obstruction: 1586
+
+Day 7:
+Number of valid calibrations:  413
+Sum of factors of those calibrations:  271691107779347
